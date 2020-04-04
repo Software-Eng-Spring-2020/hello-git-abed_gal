@@ -13,3 +13,13 @@
       </AnchorPane>
    </children>
 </VBox>
+
+<VBox xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1" fx:controller="il.ac.haifa.cs.sweng.HelloGit.PrimaryController">
+   <children>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0">
+         <children>
+            <Label layoutX="72.0" layoutY="76.0" text="Gal" />
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>
